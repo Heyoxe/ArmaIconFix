@@ -1,0 +1,10 @@
+name = "Arma Icon Fix";
+author = "Echo (Heyoxe)"
+picture = ""; 
+logoSmall = "";
+logo = "";
+logoOver = "";
+actionName = "GitHub";
+action = "https://github.com/Heyoxe/ArmaIconFix";
+tooltipOwned = "It's yours!";
+overview = "";
